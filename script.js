@@ -65,7 +65,6 @@ wait(2000)
 	.then(() => wait(2000))
 	.then(() => glitchWrite(glitch_this, '[1:31] God saw everything that he had made, and indeed, it was very good. And there was evening and there was morning, the sixth day.', ))
 	.then(() => wait(2000))
-	.then(() => wait(10000))
 	.then(() => glitchWrite(glitch_this, '/\\'))
 
 	//.then(() => input.removeAttribute('disabled'))
